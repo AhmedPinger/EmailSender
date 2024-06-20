@@ -20,3 +20,5 @@ You should have your `Access` & `Secret Access` key stored in your `AWS Cli` Too
 - At line, number 22, write down the email address you want to use to send Emails.
 - At line, number 70, Change the token of Hubspot, so API can be used.
 - At line number 125, The `CTFd` API key needs to be entered.
+- At line 117, Change the CTFd Server URL
+- At lines 166, 189, and 192 change the Bucket URL
