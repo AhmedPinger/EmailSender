@@ -6,7 +6,7 @@ Additionally, this script is not limited to just sending emails. It can also reg
 
 # The Questions that the Script Asks
 
-<img width="709" alt="image" src="https://github.com/AhmedPinger/EmailSender/assets/90968663/21de8c52-369d-4023-9a7e-690f4ab13a2b">
+<img width="716" alt="image" src="https://github.com/AhmedPinger/EmailSender/assets/90968663/6e5829a0-4094-4f5d-b057-e4586a9373f6">
 
 # Pre-Requisites
 
