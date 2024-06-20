@@ -14,7 +14,7 @@ Additionally, this script is not limited to just sending emails. It can also reg
 
 You should have your `Access` & `Secret Access` key stored in your `AWS Cli` Tool, and the script will automatically fetch the details from there.
 
-# Code Modification
+# Code Modifications
 
 - At the line, number 15, you need to define the `AWS` region in which you have that Email.
 - At line, number 22, write down the email address you want to use to send Emails.
